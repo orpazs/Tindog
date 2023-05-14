@@ -23,4 +23,4 @@ To run this website on your local device:
 1. Download or clone the repository onto your device.
 2. Exract the .zip file
 3. Open .html file in your browser.
-4. Alternatively you can click here.
+
